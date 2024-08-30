@@ -1,5 +1,8 @@
-## Welcome to GitHub Pages
+## Vik Dhekial's First CS 193 Homework
 
+- CS 193 comes after an equally fun class so I am primed to giggle.
+- CS 193 has people in my major that I can become friends with.
+- CS 193 is not hard to get to physically.
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
